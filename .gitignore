@@ -1,0 +1,25 @@
+# Maven
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.factorypath
+
+# IntelliJ
+.idea/
+
+# Database credentials
+src/main/resources/db.properties
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
